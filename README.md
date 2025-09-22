@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuraj23" alt="manuraj23" /></a> </p>
 
-- 🔭 I’m currently working on **Android Development Using Flutter**
 
-- 🌱 I’m currently learning **Flutter, Mern**
+
+- 🌱 I’m currently learning **JAVA SpringBoot**
 
 - 👨‍💻 All of my projects are available at [https://manuraj23.github.io/Portfolio-Website-/](https://manuraj23.github.io/Portfolio-Website-/)
 

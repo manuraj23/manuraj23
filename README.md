@@ -1,17 +1,20 @@
 <h1 align="center">Hi 👋, I'm Manu Raj</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">Backend Developer | Spring Boot | DevOps </h3>
+<p align="center">
+Building scalable backend systems and contributing to open source
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuraj23&label=Profile%20views&color=0e75b6&style=flat" alt="manuraj23" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuraj23" alt="manuraj23" /></a> </p>
 
-
-
-- 🌱 I’m currently learning **JAVA SpringBoot**
+## 👨‍💻 About Me
+- 🎯 Focused on **Backend Development & DevOps**
+- 🌱 Currently deepening my knowledge in **Java Spring Boot**
+- 🔧 Interested in **REST APIs, system design, CI/CD, and cloud-native tools**
+- 📫 Reach me at **manuraj082004@gmail.com**
 
 - 👨‍💻 All of my projects are available at [https://manuraj23.github.io/Portfolio-Website-/](https://manuraj23.github.io/Portfolio-Website-/)
-
-- 📫 How to reach me **manuraj082004@gmail.com**
 
 - 📄 Know about my experiences [https://manuraj23.github.io/Resume/](https://manuraj23.github.io/Resume/)
 

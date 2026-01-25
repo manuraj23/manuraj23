@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Manu Raj</h1>
-
 <h3 align="center">Backend Developer | Spring Boot | DevOps </h3>
 <p align="center">
 Building scalable backend systems and contributing to open source

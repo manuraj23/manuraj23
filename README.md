@@ -8,7 +8,6 @@ Building scalable backend systems and contributing to open source
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manuraj23" alt="manuraj23" /></a> </p>
 
-
 ## 👨‍💻 About Me
 - 🎯 Focused on **Backend Development & DevOps**
 - 🌱 Currently deepening my knowledge in **Java Spring Boot**

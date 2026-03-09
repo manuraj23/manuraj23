@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manu Raj</h1>
 <h3 align="center">Backend Developer | Spring Boot | DevOps </h3>
-<p align="center">
-  
-Building scalable backend systems and contributing to open source
-</p>
+<p align="center">Building scalable backend systems and contributing to open source</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manuraj23&label=Profile%20views&color=0e75b6&style=flat" alt="manuraj23" /> </p>
 
@@ -28,6 +25,3 @@ Building scalable backend systems and contributing to open source
 ![](https://github-readme-stats.vercel.app/api?username=manuraj23&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manuraj23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manuraj23&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-
